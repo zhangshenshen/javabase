@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DeveloperToolsToolWindowSettingsV1" lastSelectedContentNodeId="qr-code-generator">
+    <developerToolsConfigurations>
+      <developerToolConfiguration developerToolId="qr-code-generator" id="7faa29ee-86e0-4067-8e50-8c2efe331f22" name="Workbench">
+        <properties>
+          <property key="contentText" type="INPUT" value="kotlin.String|Lorem ipsum dolor sit amet." />
+        </properties>
+      </developerToolConfiguration>
+    </developerToolsConfigurations>
+    <expandedGroupNodeIds />
+  </component>
+</project>
